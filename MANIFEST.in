@@ -1,0 +1,3 @@
+recursive-include src/pycsr_cv/assets *
+include README.md LICENSE requirements.txt
+include Build-PyCSR_CV.ps1 Run-PyCSR_CV.bat run_PyCSR_CV.py
