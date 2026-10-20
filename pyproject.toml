@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pycsr-cv"
-version = "0.5.0"
+version = "1.0.0"
 description = "Interactive desktop studio for learning computer vision and image processing"
 readme = "README.md"
 requires-python = ">=3.9"
